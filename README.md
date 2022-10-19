@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! 👋
+
+- I’m currently studying Azure and .NET
+- I mainly write code in C# and Java
 
 <!--
 **invisiblecages/invisiblecages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
