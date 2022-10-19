@@ -2,6 +2,7 @@
 
 - I’m currently studying Azure and .NET
 - I mainly write code in C# and Java
+- Follow me at Codewars: <a href="https://www.codewars.com/users/WenzelDev/"><img src="https://www.codewars.com/users/WenzelDev/badges/micro" alt="Codewars"></a>
 
 <!--
 **invisiblecages/invisiblecages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
