@@ -1,8 +1,10 @@
 ### Hello! 👋
 
-- I’m currently studying Azure and .NET
+- I'm currently studying Azure, .NET and React.
 - I mainly write code in C# and Java
-- Follow me at Codewars: <a href="https://www.codewars.com/users/WenzelDev/"><img src="https://www.codewars.com/users/WenzelDev/badges/micro" alt="Codewars"></a>
+- Frontend Mentor [Solutions](https://invisiblecages.github.io/frontendmentor-challenges/)
+- [Codewars](https://www.codewars.com/users/WenzelDev/) <a href="https://www.codewars.com/users/WenzelDev/"><img src="https://www.codewars.com/users/WenzelDev/badges/micro" alt="Codewars"></a>
+- [Leetcode](https://leetcode.com/invisiblecages/)
 
 <!--
 **invisiblecages/invisiblecages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
