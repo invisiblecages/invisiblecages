@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-- I'm currently studying Azure, .NET and React.
+- I'm currently studying Azure, .NET and React
 - I mainly write code in C# and Java
 - Frontend Mentor [Solutions](https://invisiblecages.github.io/frontendmentor-challenges/)
 - [Codewars](https://www.codewars.com/users/WenzelDev/) <a href="https://www.codewars.com/users/WenzelDev/"><img src="https://www.codewars.com/users/WenzelDev/badges/micro" alt="Codewars"></a>
